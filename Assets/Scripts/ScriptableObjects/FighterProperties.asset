@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbcdcd64388b4174b7162bef2955aad, type: 3}
+  m_Name: FighterProperties
+  m_EditorClassIdentifier: 
+  maxSpeed: 5
+  maxForce: 3
+  mass: 5
+  seekWeight: 1
+  pursueWeight: 1
+  arriveWeight: 1
+  arriveDistance: 5
+  fleeWeight: 1
+  evadeWeight: 1
+  wanderWeight: 1
+  wanderCircleDistance: 15
+  wanderCircleRadius: 5
+  avoidObstaclesWeight: 1
+  separationWeight: 1
+  cohesionWeight: 1
+  radarDistance: 10
+  shootCooldown: 3

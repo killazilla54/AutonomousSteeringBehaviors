@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SeekDemo.unity
+    guid: f26c920a83e1a48379fb491c462a3035
+  - enabled: 1
+    path: Assets/Scenes/ObstacleDemo.unity
+    guid: f664f1a8b292445dea00bfbce8dd1ce6
+  - enabled: 0
+    path: Assets/layerSpritesDemo.unity
+    guid: 7caf78062e05f4fb7ac66bd10d7fe7a8
+  - enabled: 1
+    path: Assets/Scenes/WanderDemo.unity
+    guid: 7e3dfb92731bb40d9ae3de12e5869de1
+  - enabled: 1
+    path: Assets/Scenes/ArriveDemo.unity
+    guid: 2a37639e0db0849a1a45254f03a24c10
+  - enabled: 1
+    path: Assets/Scenes/EvadeDemo.unity
+    guid: aed759d522dad49e3ae703d7cca2e524
+  - enabled: 1
+    path: Assets/Scenes/FleeDemo.unity
+    guid: 533479271cb0c47778e03453798022c1
+  - enabled: 1
+    path: Assets/Scenes/PursuitDemo.unity
+    guid: dfc33dda612a54399bc7925b3c97d304
+  - enabled: 1
+    path: Assets/Scenes/StateMachineDemo.unity
+    guid: 6464f397823b74d2994c2a9a886dbb11
+  - enabled: 1
+    path: Assets/Scenes/ArriveObstacleDemo.unity
+    guid: 49f21b2cbae29ec47a6e5de6d9fab50b
+  m_configObjects: {}
